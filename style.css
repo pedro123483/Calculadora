@@ -1,0 +1,343 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Spartan:wght@700&display=swap');
+
+body{
+
+    background-color: hsl( 222, 26%, 31%);
+    font-size: 32px;
+    
+}
+
+
+
+#botoes{
+
+    background-color: hsl( 224, 36%, 15%);
+    width: 430px;
+    height: 380px;
+    border-radius: 10px;
+    margin-top: 200px;
+    position: relative;
+    display: inline-block;
+    margin-left: 470px;
+
+}
+
+
+#sete{
+
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#oito{
+
+    position: absolute;
+    top: 30px;
+    left: 120px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#nove{
+
+    position: absolute;
+    top: 30px;
+    left: 220px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#quatro{
+
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#cinco{
+
+    position: absolute;
+    left: 120px;
+    top: 100px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#seis{
+
+    position: absolute;
+    left: 220px;
+    top: 100px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#um{
+
+    position: absolute;
+    left: 20px;
+    top: 170px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#dois{
+
+    position: absolute;
+    left: 120px;
+    top: 170px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#tres{
+
+    position: absolute;
+    left: 220px;
+    top: 170px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#ponto{
+
+    position: absolute;
+    left: 20px;
+    top: 240px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#zero{
+
+    position: absolute;
+    left: 120px;
+    top: 240px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#divisao{
+
+    position: absolute;
+    left: 220px;
+    top: 240px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#mais{
+
+    position: absolute;
+    left: 320px;
+    top: 100px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#menos{
+
+    position: absolute;
+    left: 320px;
+    top: 170px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#vezes{
+
+    position: absolute;
+    top: 240px;
+    left: 320px;
+    font-family: 'Spartan', sans-serif;
+    font-size: 32px;
+    background-color: hsl(30, 25%, 89%);
+    padding: 7px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    color: hsl( 221, 14%, 31%);
+}
+
+#delete{
+
+    position: absolute;
+    top: 30px;
+    left: 320px;
+    background-color: hsl( 225, 21%, 49%);
+    color: white;
+    font-size: 15px;
+    border-width: 0px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: 'Spartan', sans-serif;
+    padding: 7px;
+}
+
+#reset{
+
+    position: absolute;
+    background-color: hsl( 225, 21%, 49%);
+    color: white;
+    font-size: 15px;
+    border-width: 0px;
+    width: 190px;
+    height: 50px;
+    border-radius: 5px;
+    top: 310px;
+    left: 20px;
+    font-family: 'Spartan', sans-serif;
+}
+
+#igual{
+
+    position: absolute;
+    background-color: hsl( 6, 63%, 50%);
+    color: white;
+    border-width: 0px;
+    width: 190px;
+    height: 50px;
+    top: 310px;
+    left: 220px;
+    border-radius: 5px;
+    font-family: 'Spartan', sans-serif;
+
+}
+
+
+
+#quantia{
+
+    position: absolute;
+    left: 480px;
+    top: 100px;
+    width: 430px;
+    height: 80px;
+    background-color: hsl( 224, 36%, 15%);
+    border-width: 0px;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Spartan', sans-serif;
+}
+
+#reset > p {
+
+    text-align: center;
+    position: absolute;
+    left: 70px;
+
+}
+
+#delete > p{
+
+    text-align: center;
+}
+
+#igual > p{
+
+    text-align: center;
+    position: absolute;
+    top: -25px;
+    left: 80px;
+}
+
+#quantia{
+
+    text-align: end;
+
+}
+
+.topo{
+
+    margin-top: 10px;
+}
